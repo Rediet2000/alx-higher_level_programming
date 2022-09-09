@@ -1,2 +1,1 @@
-# 0x12. Javascript - Warm up
->>>>>>> e92bda4 (javascript)
+Warming up for JavaScript projects
